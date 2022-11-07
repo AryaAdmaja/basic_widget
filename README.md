@@ -2,11 +2,11 @@
 
 Silakan selesaikan Tugas Praktikum 1 membuat UI sederhana dengan push ke GitHub nama repo: basic_widget
 
-Nama : Yudas Malabi
+Nama : Arya Admaja
 
-Kelas : TI 3C / 25
+Kelas : TI 3C / 06
 
-NIM : 2041720054
+NIM : 2041720104
 
 ## Screenshots
 
